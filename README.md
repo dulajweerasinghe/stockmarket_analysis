@@ -2,6 +2,8 @@
 
 This dashboard provides a comprehensive analysis of stock market trends from 📅 January 04, 2016, to January 4, 2020. It visualizes data for six major companies: 🍎 **Apple**, 📘 **Facebook**, 🔍 **Google**, 🎮 **Nvidia**, 🚗 **Tesla**, and 🐦 **Twitter**, leveraging 🐍 **Python** for data cleaning and analysis, and 📈 **Tableau** for visualization.
 
+You can view the interactive Tableau dashboard here: [Tableau Dashboard]([<your-tableau-link>](https://public.tableau.com/views/StockMarketDashBoard_17362112948100/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 ## 🔑 Key Highlights:
 
 ### 📉 Volume Analysis:
