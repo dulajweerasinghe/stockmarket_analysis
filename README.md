@@ -1,4 +1,5 @@
 # 📊 Stock Market Dashboard Overview:
+![Stock Market Analysis Dashboard](https://github.com/dulajweerasinghe/stockmarket_analysis/blob/main/Dashboard.png)
 
 This dashboard provides a comprehensive analysis of stock market trends from 📅 January 04, 2016, to January 4, 2020. It visualizes data for six major companies: 🍎 **Apple**, 📘 **Facebook**, 🔍 **Google**, 🎮 **Nvidia**, 🚗 **Tesla**, and 🐦 **Twitter**, leveraging 🐍 **Python** for data cleaning and analysis, and 📈 **Tableau** for visualization.
 
